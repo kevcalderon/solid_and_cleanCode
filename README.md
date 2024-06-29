@@ -15,5 +15,10 @@
 
 ![alt text](image-1.png)
 
-
+## Principio Dry
+* Simplemente es evitar tener duplicidad de codigo.
+* Simplifica las pruebas.
+* Ayuda a centralizar procesos.
+* Aplicar el principio DRY, usualmente lleva a refactorizar.
+  
 
